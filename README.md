@@ -50,7 +50,7 @@ How do job titles, experience levels, employment types, remote work ratios, comp
 
 ## Tools Used
 
-- PostgreSQL: Used to query the data jobs dataset and uncover key insights. QL queries are located in the [sql_questions folder](/sql_questions/).
+- PostgreSQL: Used to query the data jobs dataset and uncover key insights. SQL queries are located in the [sql_questions folder](/sql_questions/).
 
 - PowerBI: Used to visualise the datasets and provide interactive reports and dashboards.
 
