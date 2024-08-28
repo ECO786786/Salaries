@@ -22,83 +22,83 @@ How do job titles, experience levels, employment types, remote work ratios, comp
 
 ## Data Metrics
 
-1. Work year:
+- Work year: The year in which the data was collected.
 
-2. Experience level: The experience level of the employee, categorised as SE (Senior Engineer), MI (Mid-Level Engineer), or EL (Entry-Level Engineer).
+- Experience level: The experience level of the employee, categorised as SE (Senior Engineer), MI (Mid-Level Engineer), or EL (Entry-Level Engineer).
 
-3. Employment type: The type of employment, such as full-time (FT), part-time (PT), contract (C), or freelance (F).
+- Employment type: The type of employment, such as full-time (FT), part-time (PT), contract (C), or freelance (F).
 
-4. Job title: The title or role of the employee within the company, for example, AI Engineer.
+- Job title: The title or role of the employee within the company, for example, AI Engineer.
 
-5. Salary: The salary of the employee in the local currency (e.g., 202,730 USD).
+- Salary: The salary of the employee in the local currency (e.g., 202,730 USD).
 
-6. Salary currency: The currency in which the salary is denominated (e.g., USD).
+- Salary currency: The currency in which the salary is denominated (e.g., USD).
 
-7. Salary in usd: The salary converted to US dollars for standardization purposes.
+- Salary in usd: The salary converted to US dollars for standardization purposes.
 
-8. Employee residence: The country of residence of the employee.
+- Employee residence: The country of residence of the employee.
 
-9. Remote ratio: The ratio indicating the extent of remote work allowed in the position (0 for no remote work, 1 for fully remote).
+- Remote ratio: The ratio indicating the extent of remote work allowed in the position (0 for no remote work, 1 for fully remote).
 
-10. Company location: The location of the company where the employee is employed.
+- Company location: The location of the company where the employee is employed.
 
-11. Company size: The size of the company, often categorised by the number of employees (S for small, M for medium, L for large).
+- Company size: The size of the company, often categorised by the number of employees (S for small, M for medium, L for large).
 
 ## Salary Analysis Insights
 
 ### 1. Top Median Salaries by Role
 
-    Analytical Engineering Manager: Highest median salary at $399,880.00, likely due to the role's newness and limited data. Such specialised roles often command higher pay.
+- Analytical Engineering Manager: Highest median salary at $399,880.00, likely due to the role's newness and limited data. Such specialised roles often command higher pay.
 
-    Other High Earning Roles: Data Science Tech Lead ($375,000.00) and Head of Machine Learning ($330,000.00) are also top earners, reflecting the high responsibility and expertise required.
+- Other High Earning Roles: Data Science Tech Lead ($375,000.00) and Head of Machine Learning ($330,000.00) are also top earners, reflecting the high responsibility and expertise required.
 
 ### 2. Lowest Median Salaries by Role
 
-    Principal Data Architect: Surprisingly low median salary at $38,154.00, potentially due to location outside the U.S.
+- Principal Data Architect: Surprisingly low median salary at $38,154.00, potentially due to location outside the U.S.
 
-    CRM Data Analyst: Median salary of $40,000.00, typical of analyst roles that generally offer lower pay.
+- CRM Data Analyst: Median salary of $40,000.00, typical of analyst roles that generally offer lower pay.
 
 ### 3. Salaries by Experience Level
 
-    Executives (EX): Median salary is $192,000.00.
+- Executives (EX): Median salary is $192,000.00.
 
-    Entry-Level (EN): Lowest median salary at $80,769.00.
+- Entry-Level (EN): Lowest median salary at $80,769.00.
 
-    Salaries increase predictably with experience.
+- Salaries increase predictably with experience.
 
 ### 4. Salaries by Work Arrangement
 
-    Office Workers: Highest median salary at $140,100.00.
+- Office Workers: Highest median salary at $140,100.00.
 
-    Remote Workers: Competitive median salary at $137,785.50.
+- Remote Workers: Competitive median salary at $137,785.50.
 
-    Hybrid Workers: Lowest median salary at $66,022.00.
+- Hybrid Workers: Lowest median salary at $66,022.00.
 
 ### 5. Country-Specific Insights
 
-    US: Leads with a median salary of $147,500.00, reflecting its strong tech market.
+- US: Leads with a median salary of $147,500.00, reflecting its strong tech market.
 
-    Canada: Close second at $137,665.00.
+- Canada: Close second at $137,665.00.
 
-    Australia: Median salary at $105,600.00, Germany at $79,425.00, showing regional disparities.
+- Australia: Median salary at $105,600.00, Germany at $79,425.00, showing regional disparities.
 
 ### 6. Company Size and Salaries
 
-    Medium Sized Companies: Highest median salary at $140,250.00.
+- Medium Sized Companies: Highest median salary at $140,250.00.
 
-    Large Companies: $108,000.00.
+- Large Companies: $108,000.00.
 
-    Small Companies: $72,000.00, reflecting limited resources.
+- Small Companies: $72,000.00, reflecting limited resources.
 
 ### 7. Salaries by Employment Type
 
-    Full-Time Employees: Highest median salary at $139,152.00.
+- Full-Time Employees: Highest median salary at $139,152.00.
 
-    Freelancers: Lowest median at $47,777.50, due to work variability.
+- Freelancers: Lowest median at $47,777.50, due to work variability.
 
 ### 8. Impact of Outliers
 
-    Outliers, such as Qatar's initial highest salary, were addressed by focusing on countries with more participants, providing a clearer salary landscape.
+- Outliers, such as Qatar's initial highest salary, were addressed by focusing on countries with more participants, providing a clearer salary landscape.
 
 ## Recommendations
 
@@ -126,6 +126,6 @@ How do job titles, experience levels, employment types, remote work ratios, comp
 
 - Address Salary Disparities: Consider policies that address salary disparities across regions and roles, especially for critical positions that are underpaid despite their importance.
 
-- Support for Emerging Roles: Invest in training programs and education to increase the supply of skilled workers in emerging fields, which can help stabilize salaries and fill talent gaps.
+- Support for Emerging Roles: Invest in training programs and education to increase the supply of skilled workers in emerging fields, which can help stabilise salaries and fill talent gaps.
 
 - Promote Career Advancement: Encourage continuous professional development to help workers move up the salary ladder, contributing to a more skilled and competitive workforce.
