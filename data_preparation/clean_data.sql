@@ -1,4 +1,6 @@
--- Identify duplicate rows
+/*
+    Detect duplicate rows
+*/
 
 SELECT *
 FROM (
@@ -17,7 +19,9 @@ FROM (
 WHERE 
     rn > 1;
 
--- Remove duplicate rows
+/*
+   Remove duplicate rows
+*/
 
 WITH CTE AS (
     SELECT 
@@ -39,7 +43,7 @@ WHERE ctid IN (
     WHERE rn > 1
 );
 
--- check for null columns (No Null values) 
+/* Check for Null Values: Ensure that all columns contain no null values. */
 
 SELECT COUNT(work_year) AS work_year
 FROM data_salaries
@@ -85,7 +89,9 @@ SELECT COUNT(company_size) AS job_title
 FROM data_salaries
 WHERE company_size IS NULL;
 
--- Inconstant format: I want to remove salary, salary_currency to make it one currency to make it more consitant and easier 
+/* 
+   Inconsistent Format: To streamline the data, I plan to consolidate all salary values into a single currency by removing the salary and salary_currency columns. This will make the dataset more consistent and easier to work with. 
+*/ 
 
 ALTER TABLE data_salaries
 DROP COLUMN salary;
