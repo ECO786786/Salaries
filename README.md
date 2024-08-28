@@ -4,6 +4,10 @@
 
 The technology industry has seen rapid changes in employment trends, especially with the rise of remote work and changes in company sizes. Understanding the factors that influence salaries for data professionals can help companies attract and retain talent, and it can also help professionals make informed career decisions.
 
+## Data Source
+
+The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/chopper53/data-engineer-salary-in-2024/data).
+
 ## Problem Statement
 
 How do job titles, experience levels, employment types, remote work ratios, company locations, and company sizes influence the salaries of data professionals from 2020 to 2024?
@@ -22,27 +26,27 @@ How do job titles, experience levels, employment types, remote work ratios, comp
 
 ## Data Metrics
 
-- Work year: The year in which the data was collected.
+- work_year: Year of data collection (e.g. 2024).
 
-- Experience level: The experience level of the employee, categorised as SE (Senior Engineer), MI (Mid-Level Engineer), or EL (Entry-Level Engineer).
+- experience_level: Employee experience level (EX: Executives, SE: Senior, MI: Mid-Level, EL: Entry-Level).
 
-- Employment type: The type of employment, such as full-time (FT), part-time (PT), contract (C), or freelance (F).
+- employment_type: Employment type (FT: Full-time, PT: Part-time, C: Contract, F: Freelance).
 
-- Job title: The title or role of the employee within the company, for example, AI Engineer.
+- job_title: Employee's job title (e.g. AI Engineer).
 
-- Salary: The salary of the employee in the local currency (e.g., 202,730 USD).
+- salary: Employee's salary in local currency (e.g. 202,730 USD).
 
-- Salary currency: The currency in which the salary is denominated (e.g., USD).
+- salary_currency: Currency of the salary (e.g. USD).
 
-- Salary in usd: The salary converted to US dollars for standardization purposes.
+- salary_in_usd: Salary converted to USD for standardisation.
 
-- Employee residence: The country of residence of the employee.
+- employee_residence: Employee's country of residence.
 
-- Remote ratio: The ratio indicating the extent of remote work allowed in the position (0 for no remote work, 1 for fully remote).
+- remote_ratio: Remote work ratio (0: In-office, 50: Hybrid, 100: Fully remote).
 
-- Company location: The location of the company where the employee is employed.
+- company_location: Company's location.
 
-- Company size: The size of the company, often categorised by the number of employees (S for small, M for medium, L for large).
+- company_size: Company size by employees (S: Small, M: Medium, L: Large).
 
 ## Salary Analysis Insights
 
@@ -54,7 +58,7 @@ How do job titles, experience levels, employment types, remote work ratios, comp
 
 ### 2. Lowest Median Salaries by Role
 
-- Principal Data Architect: Surprisingly low median salary at $38,154.00, potentially due to location outside the U.S.
+- Principal Data Architect: Surprisingly low median salary at $38,154.00, potentially due to location outside the US.
 
 - CRM Data Analyst: Median salary of $40,000.00, typical of analyst roles that generally offer lower pay.
 
