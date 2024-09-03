@@ -52,7 +52,7 @@ How do job titles, experience levels, employment types, remote work ratios, comp
 
 - PostgreSQL: Used to query the data jobs dataset and uncover key insights. SQL queries are located in the [sql_questions folder](/sql_questions/).
 
-- PowerBI: Used to visualise the datasets and provide interactive reports and dashboards.
+- Power BI: Used to visualise the datasets and provide interactive reports and dashboards.
 
 ## Salary Analysis Insights
 
