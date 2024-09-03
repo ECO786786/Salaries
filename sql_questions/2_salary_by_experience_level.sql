@@ -1,5 +1,5 @@
 /*
-	Impact of Remote Work on Salaries
+	Impact of Experience Level on Salaries
 */
 
 WITH RankedSalaries AS (
