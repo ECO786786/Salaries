@@ -56,7 +56,7 @@ How do job titles, experience levels, employment types, remote work ratios, comp
 
 ## Salary Analysis Insights
 
-[job salary dashboard](assets/data_jobs_salary.pdf)
+[job salary dashboard](assets/data_jobs_salary.png)
 
 ### 1. Top Median Salaries by Role
 
