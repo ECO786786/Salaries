@@ -86,7 +86,7 @@ How do job titles, experience levels, employment types, remote work ratios, comp
 
 - Hybrid Workers: Lowest median salary at $66,022.00.
 
-### 5. Country-Specific Insights
+### 5. Country Specific Insights
 
 - US: Leads with a median salary of $147,500.00, reflecting its strong tech market.
 
