@@ -56,6 +56,8 @@ How do job titles, experience levels, employment types, remote work ratios, comp
 
 ## Salary Analysis Insights
 
+![job salary dashboard](assets/data_jobs_salary.pdf)
+
 ### 1. Top Median Salaries by Role
 
 - Analytical Engineering Manager: Highest median salary at $399,880.00, likely due to the role's newness and limited data. Such specialised roles often command higher pay.
