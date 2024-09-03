@@ -18,7 +18,7 @@ How do job titles, experience levels, employment types, remote work ratios, comp
 
 2. Remote work impact: Investigate how the ratio of remote work affects salary levels.
 
-3. Employment type analysis: Examine the differences in salaries based on employment types (full-time, part-time, contract, etc.).
+3. Employment type analysis: Examine the differences in salaries based on employment types (full-time, part-time, contract etc).
 
 4. Geographical impact: Study how the location of the employee and the company influences salary.
 
