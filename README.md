@@ -6,7 +6,7 @@ The technology industry has seen rapid changes in employment trends, especially 
 
 ## Data Source
 
-The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/chopper53/data-engineer-salary-in-2024/data).
+The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/chopper53/data-engineer-salary-in-2024/data) (licensed under Apache 2.0).
 
 ## Problem Statement
 
